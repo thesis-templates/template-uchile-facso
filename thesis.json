@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "chl",
-  "lingua": "spa",
-  "universitas": "www.uchile.cl",
-  "facultas": "facso.uchile.cl",
-  "repositorium": "repositorio.uchile.cl",
-  "descriptio": "Facultad de Ciencias Sociales / Universidad de Chile / Chile"
+  "year": 2024,
+  "description": "Facultad de Ciencias Sociales / Universidad de Chile / Chile",
+  "iso_country": "chl",
+  "iso_language": "spa",
+  "url_university": "https://uchile.cl/",
+  "url_school": "https://facso.uchile.cl/",
+  "url_repository": "https://repositorio.uchile.cl/"
 }
